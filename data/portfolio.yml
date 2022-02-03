@@ -4,7 +4,7 @@ portfolioitems:
     portfolioitem:
       - name: eBay Machine Learning Challenge
         image: '/images/portfolio/ebay.png'
-        link: https://github.com/chungdz/ebay2022
+        link: https://github.com/azurey0/ebay2022
         description: 'Ranked 11th in eBay 3rd Annual University Challenge of Machine Learning on an e-commerce dataset. The problem is to build a model that can accurately predict delivery dates for items sold on eBay.'
         tags:
           - CatBoost, XGBoost
