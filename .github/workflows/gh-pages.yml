@@ -4,7 +4,7 @@ name: github pages # 名字自取
 on:
   push:
     branches:
-       [ main ]  # 这里的意思是当 main分支发生push的时候，运行下面的jobs，#
+       [ master ]  # 这里的意思是当 main分支发生push的时候，运行下面的jobs，#
 
 jobs:
   deploy: # 任务名自取
@@ -31,4 +31,4 @@ jobs:
           external_repository: azurey0/azurey0.github.io	# 发布到哪个repo
           personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}	# 发布到其他repo需要提供上面生成的personal access token
           publish_dir: ./public	# 注意这里指的是要发布哪个文件夹的内容，而不是指发布到目的仓库的什么位置，因为hugo默认生成静态网页到public文件夹，所以这里发布public文件夹里的内容
-          publish_branch: main	# 发布到哪个branch
+          publish_branch: master	# 发布到哪个branch
