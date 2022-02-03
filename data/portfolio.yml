@@ -1,0 +1,50 @@
+portfolioitems:
+  # portfolio category
+  - title: Machine Learning
+    portfolioitem:
+      - name: eBay Machine Learning Challenge
+        image: '/images/portfolio/ebay.png'
+        link: https://github.com/chungdz/ebay2022
+        description: 'Ranked 11th in eBay 3rd Annual University Challenge of Machine Learning on an e-commerce dataset. The problem is to build a model that can accurately predict delivery dates for items sold on eBay.'
+        tags:
+          - CatBoost, XGBoost
+          - Predictive Modeling
+        status: 'Finished'
+        start: '12/2021'
+        end: '01/2022'
+      - name: A Chinese ChatBot
+        image: '/images/portfolio/chatbot.png'
+        link: https://github.com/azurey0/webot
+        description: 'An information retrieval based Chinese ChatBot built with NLP algorithms incluing BERT based sentiment analysis and question answering, BiLSTM + CRF structured knowledge graph. Deployed with Flask, Redis.'
+        status: 'Finished'
+        tags:
+          - NLP
+          - dialogue system
+          - question answering
+          - sentiment analysis
+        start: '01/2020'
+        end: '05/2020'
+
+  # portfolio category
+  - title: Analysis
+    portfolioitem:
+      - name: CPMCRI - Cancer Avatar
+        image: '/images/portfolio/cpmc.jpg'
+        link: https://www.sutterhealth.org/research/cpmcri/cancer-avatar-project
+        description: 'As part of the UC Davis students, collaborated with scientists for Cancer Avatar, a Precision Medicine research project. Built algorithms and data pipeline for cancer gene extraction, matching, storage and visualization.'
+        tags:
+          - Data Pipeline
+        status: 'Ongoing'
+        start: '09/2021'
+        end: 'Expected 06/2022'
+      - name: SCRUB Project
+        image: '/images/portfolio/scrub.png'
+        link: https://www.behaviourworksaustralia.org/major-projects/covid-19-scrub-study
+        description: 'The SCRUB project aims to provide current and future policymakers with actionable insights into public attitudes and behaviours relating to the COVID-19 pandemic. The project involves more than 20,000 international surveys from 40 countries so far. Analyzed and built dashboards, as well as proposed research ideas.'
+        tags:
+          - Data Visualization
+          - Survey Data Analysis
+        status: 'Finished'
+        start: '03/2020'
+        end: '05/2020'
+
