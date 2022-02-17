@@ -1,8 +1,8 @@
 ---
-title: "Analyzing A/B Testing"
+title: "A/B Test(1): A Result Analysis Case"
 date: 2021-12-02T12:25:36+08:00
-Description: "A case study of analyzing A/B Test"
-summary: "A case study of analyzing A/B Test in Python"
+Description: "A case study of Game Retention and Game Round A/B test, with Man-Whitney U test and Bootstrap"
+summary: "A case study of Game Retention and Game Round A/B test, with Man-Whitney U test Bootstrap"
 Tags: [A/B Testing]
 Categories: [Data Analysis]
 DisableComments: false
