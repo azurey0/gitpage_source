@@ -20,4 +20,4 @@ Besides work, I keep on doing interesting data mining projects, including **Mach
 
 I love games and sci-fi (A good sci-fi is like a revelation for tech and future, isn't it?). I'm reading *NeuroLogic* by Eliezer Sternberg. 
 
-I'm looking for jobs and here's [my resume](https://drive.google.com/file/d/1E36B0MVtbk9dC99hzBIhJZHw6rpPCQnE/view?usp=sharing)!
+I'm looking for jobs and here's [my resume](https://drive.google.com/file/d/10-LHsj5VCCch2hshRAi4c3sH18TBf03K/view?usp=sharing)!
