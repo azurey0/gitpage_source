@@ -34,16 +34,27 @@ portfolioitems:
         description: 'As part of the UC Davis students, collaborated with scientists for Cancer Avatar, a Precision Medicine research project. Built algorithms and data pipeline for cancer gene extraction, matching, storage and visualization.'
         tags:
           - Data Pipeline
+          - Bioinformatics 
         status: 'Ongoing'
         start: '09/2021'
         end: 'Expected 06/2022'
+      - name: Hackathon with Google Cloud
+        image: '/images/portfolio/msba.jpg'
+        link: https://github.com/azurey0/MSBA-hackthon
+        description: 'Ranked 2nd Place and Best Use of Google Cloud Prize in UC Davis hackthon, partnering with Google Cloud. Applied casual inference models and data visualization to understand social disparity problem.'
+        tags:
+          - Visualization
+          - Causal Inference
+        status: 'Finished'
+        start: '03/2022'
+        end: '03/2022'
       - name: SCRUB Project
         image: '/images/portfolio/scrub.png'
         link: https://www.behaviourworksaustralia.org/major-projects/covid-19-scrub-study
         description: 'The SCRUB project aims to provide current and future policymakers with actionable insights into public attitudes and behaviours relating to the COVID-19 pandemic. The project involves more than 20,000 international surveys from 40 countries so far. Analyzed and built dashboards, as well as proposed research ideas.'
         tags:
           - Data Visualization
-          - Survey Data Analysis
+          - Psychological Survey Data Analysis
         status: 'Finished'
         start: '03/2020'
         end: '05/2020'
