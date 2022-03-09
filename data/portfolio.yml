@@ -39,7 +39,7 @@ portfolioitems:
         start: '09/2021'
         end: 'Expected 06/2022'
       - name: Hackathon with Google Cloud
-        image: '/images/portfolio/msba.jpg'
+        image: '/images/portfolio/msba.png'
         link: https://github.com/azurey0/MSBA-hackthon
         description: 'Ranked 2nd Place and Best Use of Google Cloud Prize in UC Davis hackthon, partnering with Google Cloud. Applied casual inference models and data visualization to understand social disparity problem.'
         tags:
